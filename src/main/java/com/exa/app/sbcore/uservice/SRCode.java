@@ -22,4 +22,6 @@ public class SRCode {
 	
 	public static final String SU = "SU/";
 
+	public static final String PC = "PC/";
+
 }
