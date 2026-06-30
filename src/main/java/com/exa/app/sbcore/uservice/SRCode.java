@@ -24,4 +24,20 @@ public class SRCode {
 
 	public static final String PC = "PC/";
 
+	public static final String PL = "PL/";
+
+	public static final String MS = "MS/";
+
+	public static final String MP = "MP/";
+
+	public static final String RT = "RT/";
+
+	public static final String LR = "LR/";
+
+	public static final String LK = "LK/";
+
+	public static final String TE = "TE/";
+
+	public static final String TM = "TM/";
+
 }
